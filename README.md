@@ -1,8 +1,9 @@
 # PymolDesign: Protein sequence design on PyMOL
 
-Design your protein for given backbone structure on PyMOL
+Design your protein for given backbone structure on PyMOL!
 
-# What's this?
+
+# What's this?: PymolDesign = ColabDesign + PymolFold
 
 Run protein MPNN and predict the structure by ESM API on PyMOL.
 
