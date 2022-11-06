@@ -18,7 +18,7 @@ Structure prediction part was adapted from [PymolFold](https://github.com/Jinyua
 
 Install them via pip bundled with your PyMOL. Be careful not to destroy your (purchased) PyMOL.
 
-Installation of colabdesign
+**Installation of colabdesign**
 
 ```pip -q install git+https://github.com/sokrypton/ColabDesign.git@v1.1.0```
 
