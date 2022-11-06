@@ -38,7 +38,7 @@ For example,
 
 ``` design mybackbone, myfirstdesign```
 
-will yield the designed model templated by your backbone.
+will yield the designed model templated by your backbone and named myfirstdesign.
 
 # Note 
 
