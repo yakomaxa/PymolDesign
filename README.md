@@ -22,6 +22,24 @@ Install them via pip bundled with your PyMOL. Be careful not to destroy your (pu
 
 ```pip -q install git+https://github.com/sokrypton/ColabDesign.git@v1.1.0```
 
+# Usage
+
+From PyMOL console,
+
+```run design.py```
+
+Then
+
+```design selection, name```
+
+For example,
+
+``` load mybackbone.pdb ```
+
+``` design mybackbone, myfirstdesign```
+
+will yield the designed model templated by your backbone.
+
 # Note 
 
 This is a repository under development. Issues and PR would be welcomed.
