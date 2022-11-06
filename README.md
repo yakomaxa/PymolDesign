@@ -3,7 +3,7 @@
 Design your protein for given backbone structure on PyMOL!
 
 
-# What's this?: PymolDesign = ColabDesign + PymolFold
+# What's this? PymolDesign = ColabDesign + PymolFold
 
 Run protein MPNN and predict the structure by ESM API on PyMOL.
 
