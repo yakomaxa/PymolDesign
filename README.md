@@ -14,4 +14,6 @@ Structure prediction part was adapted from [PymolFold](https://github.com/Jinyua
 
 * colabdesign
 * requests
+# Note 
 
+This is a repository underdevelopment. Issues and PR would be welcomed.
