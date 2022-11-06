@@ -1,2 +1,2 @@
 # PymolDesign
-Protein design on PyMOL
+Protein sequence design on PyMOL
