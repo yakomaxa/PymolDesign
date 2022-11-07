@@ -44,3 +44,18 @@ will yield the designed model templated by your backbone and named myfirstdesign
 # Note 
 
 This is a repository under development. Issues and PR would be welcomed.
+
+# References
+
+Add reference for ColabDesign and proteinMPNN here
+
+```bibtex
+@article{lin2022language,
+  title={Language models of protein sequences at the scale of evolution enable accurate structure prediction},
+  author={Lin, Zeming and Akin, Halil and Rao, Roshan and Hie, Brian and Zhu, Zhongkai and Lu, Wenting and dos Santos Costa, Allan and Fazel-Zarandi, Maryam and Sercu, Tom and Candido, Sal and others},
+  journal={bioRxiv},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
